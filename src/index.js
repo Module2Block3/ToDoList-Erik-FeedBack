@@ -1,5 +1,3 @@
-// import _ from 'lodash';
-// import { add } from 'lodash';
 import './style.css';
 // eslint-disable-next-line
 import Checkbox from './checkbox.js';

@@ -1,4 +1,3 @@
-// import { get } from 'lodash';
 import Crud from './addAndRemove.js';
 // eslint-disable-next-line
 import displayList from './index.js';
